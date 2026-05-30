@@ -1,0 +1,3 @@
+﻿  XSB----------26.cpp
+D:\C语言学习\Project26---四种方式输入姓名\XSB----------26.cpp(12,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Project26.vcxproj -> D:\C语言学习\Project26---四种方式输入姓名\x64\Debug\Project26.exe

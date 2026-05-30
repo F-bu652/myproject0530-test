@@ -1,0 +1,4 @@
+﻿  XSB---------46.cpp
+D:\C语言学习\Project46\XSB---------46.cpp(4,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C语言学习\Project46\XSB---------46.cpp(32,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“double”
+  Project46.vcxproj -> D:\C语言学习\Project46\x64\Debug\Project46.exe

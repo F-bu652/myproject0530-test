@@ -1,0 +1,4 @@
+﻿  XSB-----------24.cpp
+D:\C语言学习\Project24\XSB-----------24.cpp(15,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\C语言学习\Project24\XSB-----------24.cpp(16,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project24.vcxproj -> D:\C语言学习\Project24\x64\Debug\Project24.exe

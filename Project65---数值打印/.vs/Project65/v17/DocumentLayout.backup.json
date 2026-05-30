@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u8BED\u8A00\u5B66\u4E60\\Project65\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF71F08-C482-4ABC-93F5-37B3497577A0}|Project65.vcxproj|D:\\C\u8BED\u8A00\u5B66\u4E60\\Project65\\XSB----------65.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DF71F08-C482-4ABC-93F5-37B3497577A0}|Project65.vcxproj|solutionrelative:XSB----------65.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XSB----------65.cpp",
+              "DocumentMoniker": "D:\\C\u8BED\u8A00\u5B66\u4E60\\Project65\\XSB----------65.cpp",
+              "RelativeDocumentMoniker": "XSB----------65.cpp",
+              "ToolTip": "D:\\C\u8BED\u8A00\u5B66\u4E60\\Project65\\XSB----------65.cpp",
+              "RelativeToolTip": "XSB----------65.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T13:31:40.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

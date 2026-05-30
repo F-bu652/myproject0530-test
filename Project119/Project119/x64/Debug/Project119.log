@@ -1,0 +1,6 @@
+﻿  XSB----------119.cpp
+D:\C语言学习\Project119\XSB----------119.cpp(26,8): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+D:\C语言学习\Project119\XSB----------119.cpp(28,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C语言学习\Project119\XSB----------119.cpp(32,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C语言学习\Project119\XSB----------119.cpp(36,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project119.vcxproj -> D:\C语言学习\Project119\x64\Debug\Project119.exe

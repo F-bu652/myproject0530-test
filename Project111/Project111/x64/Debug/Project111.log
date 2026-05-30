@@ -1,0 +1,8 @@
+﻿  XSB ----------111.cpp
+D:\C语言学习\Project111\XSB ----------111.cpp(19,10): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 1 拥有了类型“int”
+      D:\C语言学习\Project111\XSB ----------111.cpp(19,10):
+      请考虑在格式字符串中使用“%d”
+      D:\C语言学习\Project111\XSB ----------111.cpp(19,10):
+      请考虑在格式字符串中使用“%I32d”
+  
+  Project111.vcxproj -> D:\C语言学习\Project111\x64\Debug\Project111.exe

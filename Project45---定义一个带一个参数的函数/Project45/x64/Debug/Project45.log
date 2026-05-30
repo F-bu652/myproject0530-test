@@ -1,0 +1,3 @@
+﻿  XSB----------45.cpp
+D:\C语言学习\Project45\XSB----------45.cpp(11,8): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  Project45.vcxproj -> D:\C语言学习\Project45\x64\Debug\Project45.exe

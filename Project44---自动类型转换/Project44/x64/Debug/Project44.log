@@ -1,0 +1,8 @@
+﻿  XSB---------44.cpp
+D:\C语言学习\Project44\XSB---------44.cpp(8,9): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\C语言学习\Project44\XSB---------44.cpp(11,9): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\C语言学习\Project44\XSB---------44.cpp(12,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C语言学习\Project44\XSB---------44.cpp(14,7): warning C4305: “=”: 从“int”到“char”截断
+D:\C语言学习\Project44\XSB---------44.cpp(14,7): warning C4309: “=”: 截断常量值
+D:\C语言学习\Project44\XSB---------44.cpp(16,7): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+  Project44.vcxproj -> D:\C语言学习\Project44\x64\Debug\Project44.exe

@@ -1,0 +1,3 @@
+﻿  XSB-----------118.cpp
+D:\C语言学习\Project118\XSB-----------118.cpp(63,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project118.vcxproj -> D:\C语言学习\Project118\x64\Debug\Project118.exe

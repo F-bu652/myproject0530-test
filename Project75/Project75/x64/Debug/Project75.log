@@ -1,0 +1,8 @@
+﻿  XSB----------75.cpp
+D:\C语言学习\Project75\XSB----------75.cpp(11,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C语言学习\Project75\XSB----------75.cpp(16,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C语言学习\Project75\XSB----------75.cpp(20,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C语言学习\Project75\XSB----------75.cpp(24,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C语言学习\Project75\XSB----------75.cpp(28,69): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C语言学习\Project75\XSB----------75.cpp(31,83): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Project75.vcxproj -> D:\C语言学习\Project75\x64\Debug\Project75.exe

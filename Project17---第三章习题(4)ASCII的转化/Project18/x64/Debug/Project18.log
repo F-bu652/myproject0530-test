@@ -1,0 +1,11 @@
+﻿  XSB------------18.cpp
+D:\C语言学习\Project18\XSB------------18.cpp(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\C语言学习\Project18\XSB------------18.cpp(6,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      D:\C语言学习\Project18\XSB------------18.cpp(6,10):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      D:\C语言学习\Project18\XSB------------18.cpp(6,10):
+      缺失的可变参数 2 为格式字符串“%c”所需
+      D:\C语言学习\Project18\XSB------------18.cpp(6,10):
+      此参数用作缓冲区大小
+  
+  Project18.vcxproj -> D:\C语言学习\Project18\x64\Debug\Project18.exe

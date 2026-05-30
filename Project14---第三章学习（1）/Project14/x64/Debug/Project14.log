@@ -1,0 +1,3 @@
+﻿  XSB----------14.cpp
+D:\C语言学习\Project14\XSB----------14.cpp(12,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project14.vcxproj -> D:\C语言学习\Project14\x64\Debug\Project14.exe

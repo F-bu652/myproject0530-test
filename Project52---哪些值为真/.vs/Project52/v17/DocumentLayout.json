@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u8BED\u8A00\u5B66\u4E60\\Project52---\u54EA\u4E9B\u503C\u4E3A\u771F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D570ACF-0C1A-47A5-A0F0-39A3C57E88CD}|Project52.vcxproj|D:\\C\u8BED\u8A00\u5B66\u4E60\\Project52---\u54EA\u4E9B\u503C\u4E3A\u771F\\XSB----------52.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D570ACF-0C1A-47A5-A0F0-39A3C57E88CD}|Project52.vcxproj|solutionrelative:XSB----------52.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XSB----------52.cpp",
+              "DocumentMoniker": "D:\\C\u8BED\u8A00\u5B66\u4E60\\Project52---\u54EA\u4E9B\u503C\u4E3A\u771F\\XSB----------52.cpp",
+              "RelativeDocumentMoniker": "XSB----------52.cpp",
+              "ToolTip": "D:\\C\u8BED\u8A00\u5B66\u4E60\\Project52---\u54EA\u4E9B\u503C\u4E3A\u771F\\XSB----------52.cpp",
+              "RelativeToolTip": "XSB----------52.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T14:00:36.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  XSB----------71.cpp
+D:\C语言学习\Project71\XSB----------71.cpp(16,10): warning C4778: “printf”: 格式字符串“%”未终止
+  Project71.vcxproj -> D:\C语言学习\Project71\x64\Debug\Project71.exe
